@@ -15,7 +15,7 @@
     <name>Spring MVC Security OAuth2 Example (resource Server)</name>
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-        <spring.security.oauth2.version>2.3.2.RELEASE</spring.security.oauth2.version>
+        <spring.security.oauth2.version>2.3.5.RELEASE</spring.security.oauth2.version>
         <spring-framework.version>5.0.2.RELEASE</spring-framework.version>
 
         <servlet.version>3.1.0</servlet.version>
